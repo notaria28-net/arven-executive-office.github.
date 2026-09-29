@@ -1,8 +1,5 @@
-ARVEN — Executive Office V1
-Repository: arven-executive-office
-Owner: notaria28-net
-Static GitHub Pages storefront
-Support: support@arven-executive.example | +1 (704) 555-0187
-Location: Charlotte, NC 28202 (fictional project location)
-
-Contents: 22 HTML pages, 12 product images, 4 editorial images, local branding, CSS, JS, README and asset documentation.
+ARVEN Executive Office V2 visual refresh
+12 clean local product photographs
+4 clean local editorial photographs
+No embedded UI/text inside product or editorial image assets
+Responsive storefront with support contact, cart, saved items and GitHub Pages compatibility
