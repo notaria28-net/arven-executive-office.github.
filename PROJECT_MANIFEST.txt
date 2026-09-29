@@ -3,3 +3,5 @@ ARVEN Executive Office V2 visual refresh
 4 clean local editorial photographs
 No embedded UI/text inside product or editorial image assets
 Responsive storefront with support contact, cart, saved items and GitHub Pages compatibility
+
+Version: V3 — image frames enlarged and switched to cover for stronger visual presence.
