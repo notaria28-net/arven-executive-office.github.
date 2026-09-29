@@ -5,3 +5,5 @@ No embedded UI/text inside product or editorial image assets
 Responsive storefront with support contact, cart, saved items and GitHub Pages compatibility
 
 Version: V3 — image frames enlarged and switched to cover for stronger visual presence.
+
+V4 image framing update: product assets cropped to square presentation and enlarged in cards/categories.
